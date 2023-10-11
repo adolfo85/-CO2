@@ -42,5 +42,4 @@ activate CO2
         │
         └── README.md          <- The top-level README for developers using this project.
 
----
-Project created for demonstration purposes for the course "[Personalización Avanzada de Entorno para ciencia de Datos]()" by [Platzi](https://platzi.com/) - [@jvelezmagic](https://jvelezmagic.com/).
+
